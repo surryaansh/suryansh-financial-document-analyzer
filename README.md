@@ -49,7 +49,7 @@ This reduced cross-contamination between reasoning steps and improved reliabilit
 
 ---
 
-### 2️⃣ Implemented RAG with FAISS (Facebook AI Similarity Search, a powerful vector database created by Meta AI, which is optimized for large-scale similarity search in high-dimensional space)
+### 2️⃣ Implemented RAG with FAISS (Facebook AI Similarity Search)
 
 This assignment wasn't just to debug, it was to harden it for reliability.
 
