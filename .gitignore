@@ -11,7 +11,4 @@ __pycache__/
 # MacOS
 .DS_Store
 
-# Data folder (optional)
-data/
-
 dump.rdb
