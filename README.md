@@ -51,6 +51,8 @@ This reduced cross-contamination between reasoning steps and improved reliabilit
 
 ### 2️⃣ Implemented RAG with FAISS (Facebook AI Similarity Search)
 
+This assignment wasn't just to debug, it was to harden it too.
+
 The original system relied entirely on the LLM’s internal knowledge.
 
 Now the system uses the OpenAI APIs for cost-efficient, structured agent reasoning. (integrated via my existing OpenAI setup)
@@ -65,7 +67,6 @@ I implemented Retrieval-Augmented Generation (RAG):
 
 **Why?**
 
-This assignment wasn't just to debug, it was to harden it too."
 Financial analysis must be document-grounded. Proper token usage is required and fabricating numbers is unacceptable.
 Thus RAG pipeline was required for better optimisation.
 
