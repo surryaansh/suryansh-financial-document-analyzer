@@ -65,7 +65,9 @@ I implemented Retrieval-Augmented Generation (RAG):
 
 **Why?**
 
+This assignment wasn't just to debug, it was to harden it too."
 Financial analysis must be document-grounded. Proper token usage is required and fabricating numbers is unacceptable.
+Thus RAG pipeline was required for better optimisation.
 
 Increasing k from 4 → 6 improved recall without increasing hallucination.
 
