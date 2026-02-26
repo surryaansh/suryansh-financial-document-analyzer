@@ -1,0 +1,9 @@
+crewai==0.130.0
+crewai-tools==0.47.1
+fastapi==0.110.3
+uvicorn[standard]
+python-dotenv
+python-multipart==0.0.9
+faiss-cpu
+tiktoken
+pymongo
