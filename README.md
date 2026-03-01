@@ -106,7 +106,7 @@ During early debugging, I hit extremely high token usage due to:
 *   Removed delegation
 *   Enforced structured outputs
 
-Usage dropped to ~6k token per execution, with better deterministic outputs.
+Usage dropped to ~6k tokens per execution, with better deterministic outputs.
 
 **Big learning:** prompt discipline directly affects cost and system stability.
 
